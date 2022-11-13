@@ -1,0 +1,38 @@
+body {
+	background-color: yellow;
+	color: rgb(30, 30, 30);
+	font-family: 'Roboto',sans-serif;
+	font-size: 16px;
+}
+
+h1 	{
+	color: 395144;
+    font-family: Sherif;
+    font-size: 56px;
+}
+
+h2{
+	color: rgb(100, 100, 100);
+    font-family: 'Lora',serif;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+a 	{
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	color: royalblue;
+}
+
+div {
+background: white;
+border: 2px solid black;
+margin: 10px;
+
+}
+
+#logo {
+	width: 40px;
+}
